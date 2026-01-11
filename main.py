@@ -1,6 +1,6 @@
 
 # Author: Adam Benjamin (https://github.com/abenjamin8)
-# Project: python-nmap-scanner
+# Project: password-strength-checker
 
 RED = "\033[91m"
 YELLOW = "\033[93m"
