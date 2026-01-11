@@ -1,4 +1,7 @@
 
+# Author: Adam Benjamin (https://github.com/abenjamin8)
+# Project: python-nmap-scanner
+
 RED = "\033[91m"
 YELLOW = "\033[93m"
 GREEN = "\033[92m"
